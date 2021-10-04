@@ -16,8 +16,12 @@ html {
     semi-transparent: #40bf9599;
 */
 
+header{
+background-image:background image: https://picsum.photos/1200/300
+}
+
 nav a {
 display: box-inline;
 text-align: center;
-color-background: ;
+color-background:#40bf9599;
 }
