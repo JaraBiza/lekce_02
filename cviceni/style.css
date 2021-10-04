@@ -16,8 +16,9 @@ html {
     semi-transparent: #40bf9599;
 */
 
-header{
-background-image:background image: https://picsum.photos/1200/300
+header {
+background-image: url("https://picsum.photos/1200/300");
+min-height: 300px;
 }
 
 nav a {
