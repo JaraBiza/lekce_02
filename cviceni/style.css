@@ -15,3 +15,9 @@ html {
     dark: #003322;
     semi-transparent: #40bf9599;
 */
+
+nav a {
+display: box-inline;
+text-align: center;
+color-background: ;
+}
